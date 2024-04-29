@@ -1,0 +1,6 @@
+T01,Albert,Web Development,^i_boq.5
+T02,Amad,C Sharp Programming,^j^aa55
+T03,Steve,Python Programming,pqbsbk`roov..
+T04,Jack,Computer Mathematics,^drpp00
+T05,John,Database,glekkv66
+T06,Gabriel,System Design,d^__./
